@@ -9,7 +9,7 @@
 
 ---
 
-<p>Passionate about games, drawing and programming. I'm currently studying Computer Science. I have a great affection for Python, but I am starting to venture into the world of web development and I am very satisfied with what I've already learned. My biggest interest now is to improve myself in <strong>ReactJS</strong>, <strong>JavaScript</strong> and <strong>TypeScript</strong>.</p>
+<p>Passionate about games, drawing and programming. I'm currently studying Computer Science. I have a great affection for Python, but I am starting to venture into the world of web development and I am very satisfied with what I've already learned. My biggest interest now is to improve myself in <strong>Spring Boot</strong>, <strong>Java</strong> and <strong>JavaScript/TypeScript</strong>.</p>
 <p>One of my goals is to become a <strong>Full-stack Developer</strong>. And I am working on it...</p>
 
 ---
