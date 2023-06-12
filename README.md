@@ -1,7 +1,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-Wyllian%20Asevedo-%235F26D4?style=flat-square&logo=LinkedIn">](https://www.linkedin.com/in/wyllian-asevedo/)
 [<img src="https://img.shields.io/badge/Gmail-wyllianyurk77%40gmail.com-%235F26D4?style=flat-square&logo=Gmail&logoColor=white">](mailto:wyllianyurk77@gmail.com)
-[<img src="https://img.shields.io/badge/Discord-All%237232-%235F26D4?style=flat-square&logo=Discord&logoColor=white">](https://discord.com/)
+[<img src="https://img.shields.io/badge/Discord-all-%235F26D4?style=flat-square&logo=Discord&logoColor=white">](https://discord.com/)
 
 ### <h2 style="color: #5F26D4">Hey :v:</h2>
 
